@@ -13,9 +13,9 @@
   "dependencies": {
     "@google/genai": "^2.7.0",
     "@vitejs/plugin-react": "latest",
-    "cors": "latest",
-    "dotenv": "latest",
-    "express": "latest",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
     "react": "latest",
     "react-dom": "latest",
     "vite": "latest"
