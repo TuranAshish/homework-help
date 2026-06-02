@@ -74,7 +74,7 @@ function App() {
         <div className="badge">AI Study Buddy for Kids</div>
 
         <h1>
-          Homework Help <span>AI</span>
+          Turan's Homework Help <span>AI</span>
         </h1>
 
         <p>
